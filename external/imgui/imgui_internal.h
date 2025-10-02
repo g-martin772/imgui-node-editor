@@ -870,8 +870,7 @@ enum ImGuiLayoutType_
     ImGuiLayoutType_Vertical = 1
 };
 
-enum ImGuiLayoutItemType_
-{
+enum ImGuiLayoutItemType_ {
     ImGuiLayoutItemType_Item,
     ImGuiLayoutItemType_Spring
 };
